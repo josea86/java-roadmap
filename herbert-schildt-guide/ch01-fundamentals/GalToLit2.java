@@ -1,4 +1,4 @@
-class GalToLits2{
+class GalToLit2{
   public static void main(String[] args){
 
     // Declare double variables
