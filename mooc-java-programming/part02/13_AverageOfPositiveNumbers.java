@@ -22,8 +22,7 @@ public class AverageOfPositiveNumbers {
         }
         if(sum == 0){
             System.out.println("Cannot calculate the average");
-        }        
-        else{
+        } else{
             double average = (double) sum / number;
             System.out.println(average);
         }        
