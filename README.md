@@ -34,15 +34,17 @@ The repository is organized logically into directories separating theoretical pr
 
 ```text
 .
-├── ioc-dam-programacio/         # Official IOC DAM Programació (M03) coursework
-│   ├── unit01-introduction/     # Basic syntax, structure, and primitive types
-│   ├── unit02-oop/              # Classes, objects, methods, and encapsulation
-│   └── assignments/             # Graded tasks (Lliuramientos / Prácticas)
+├── ioc-dam-programacio/                 # Official IOC DAM Programació (M03) coursework
+│   ├── unit01-introduction/             # Basic syntax, structure, and primitive types
+│   ├── unit02-oop/                      # Classes, objects, methods, and encapsulation
+│   └── assignments/                     # Graded tasks (Lliuramientos / Prácticas)
 │
-├── herbert-schildt-guide/       # Exercises and examples from the book
-│   ├── ch01-fundamentals/       # Java basics (e.g., GalToLit.java)
-│   ├── ch02-data-types/         # Data types and operators
-│   └── README.md                # Specific chapter index
+├── herbert-schildt-guide/               # Exercises and examples from the book
+│   ├── ch01-fundamentals/               # Java basics (e.g., GalToLit.java)
+│   ├── ch02-data-types/                 # Data types and operators
+|   ├── ch03-control-statements/         # Control statements (for, while...)
+|   ├── ch04-classes-objects-methods/    # Intro to classes, objects and methods
+│   └── 
 │
 ├── mooc-java-programming/       # University of Helsinki MOOC exercises
 │   ├── part01/                  # Conditionals, variables, reading input
