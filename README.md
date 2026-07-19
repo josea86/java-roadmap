@@ -24,7 +24,7 @@ I am currently building my foundations and tracking my progress across three mai
 * **OS:** Debian Trixie
 * **Language Version:** Java 21 (LTS)
 * **Compiler/Runtime:** OpenJDK
-* **IDE/Editor:** VS Codium
+* **IDE/Editor:** VS Codium, Sublime Text & Netbeans
 
 ---
 
