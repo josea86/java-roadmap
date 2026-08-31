@@ -49,6 +49,7 @@ The repository is organized logically into directories separating theoretical pr
 ├── mooc-java-programming/       # University of Helsinki MOOC exercises
 │   ├── part01/                  # Conditionals, variables, reading input
 │   ├── part02/                  # Loops, methods, dividing code
-│   └── part03/                  # Lists, arrays, strings
+│   ├── part03/                  # Lists, arrays, strings
+│   └── part04/                  # Object-oriented programming
 │
 └── README.md                    # Main repository guide (this file)
